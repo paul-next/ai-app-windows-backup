@@ -1,4 +1,4 @@
 561f0b0c6edc4dbf5f00f33b86e0786ea59a0ff926759813b26770a0e8c4d963  chatgpt-x64.msix
-ab9abc0dbeae271ad75fde1dcbcb9469fd2ca0cdc400564ca60e900641e0a031  claude-desktop-x64.msix
+d95045a5354f2058fc380b5f1400ad3b66c841692644cb4c0c70ca3d4b6ccd5a  claude-desktop-x64.msix
 fa797c1bc7d4a3511da42622bae53a2b7f1276ae328c668f2bfef44635301caa  claude-code-2.1.330-x64.exe
 669941eff23dd8470fbf85d919a03d80c4e3d35b441e3fcd361c0f8630945be8  codex-package-x86_64-pc-windows-msvc.tar.gz
